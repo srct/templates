@@ -24,9 +24,10 @@ To get started, you'll need to have the following installed:
 
 Open a terminal window and type in the following commands. (If you're on Windows, use [Cygwin](http://cygwin.com/). This wil create a local, workable copy of the project.
 
-```bash
-git clone git@git.gmu.edu:srct/templates.git
-cd templates/
+``bash``
+``git clone git@git.gmu.edu:srct/templates.git``
+``cd templates/``
+
 
 To-do
 ---

@@ -26,10 +26,10 @@ To get started, you'll need the following installed:
 
 Open a terminal window and type in the following commands. (If you're on Windows, use [Cygwin](http://www.cygwin.com/). This will create a local, workable copy of the project.
 
-```bash
-git clone git@git.gmu.edu:srct/PROJECT.git
-cd PROJECT/
-A Django project, for example, would include setting up virtual environment, installing from requirements file, setting up south, syncing the database, and runserver
+``bash``
+``git clone git@git.gmu.edu:srct/PROJECT.git``
+``cd PROJECT/``
+``A Django project, for example, would include setting up virtual environment, installing from requirements file, setting up south, syncing the database, and runserver``
 
 To-do
 ---
