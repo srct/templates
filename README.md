@@ -1,4 +1,4 @@
-Advisor
+Templates
 ===
 
 The 'templates' projects standardizes components, establishing a cohesive SRCT style across our projects, and assists developers creating new projects.
@@ -22,7 +22,7 @@ Setup
 To get started, you'll need to have the following installed:
 * [Git](http://git-scm.com/book/en/Getting-Started-Installing-Git)
 
-Open a terminal window and type in the following commands. (If you're on Windows, use [Cygwin](http://cygwin.com/). This wil create a local, workable copy of the project.
+Open a terminal window and type in the following commands. (If you're on Windows, use [Cygwin](http://cygwin.com/). This will create a local, workable copy of the project.
 
 ``bash``
 ``git clone git@git.gmu.edu:srct/templates.git``
